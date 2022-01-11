@@ -2,8 +2,8 @@
 Sou estudante de programação de computadores e estou cursando o Técnico em Desenvolvimento de Sistemas no Senac Tech 👨‍💻 Atualmente estou servindo ao Exército Brasileiro na graduação de 3° Sargento de Infantaria 🔰🪖 mas muito em breve estarei realizando meu sonho de ingressar na área da qual me considero um grande entusiasta, a área de tecnologia da informação.
 <br>Saúde e paz! ☮️
 
-### ✔️ Linguagens de programação: 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
+### ⚡ Linguagens de programação: 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 ### 🗄️ Banco de dados:
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
