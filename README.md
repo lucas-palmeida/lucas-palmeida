@@ -1,5 +1,5 @@
 ## Olá 👋 e seja bem vindo! Meu nome é Lucas Almeida.
-Sou estudante de programação de computadores e estou cursando o Técnico em Desenvolvimento de Sistemas no Senac Tech 👨‍💻 Atualmente estou servindo ao Exército Brasileiro na graduação de 3° Sargento de Infantaria 🔰🪖 mas muito em breve estarei realizando meu sonho de ingressar na área da qual me considero um grande entusiasta, a área de tecnologia da informação.
+Sou apaixonado por programação de computadores e aluno dos cursos Técnico em Desenvolvimento de Sistemas no Senac Tech 👨‍💻 e Bacharel em Engenharia Cartográfica e de Agrimensura na Universidade Federal do Rio Grande do Sul (UFRGS) 🌐 Atualmente estou em busca da minha primeira oportunidade profissional na área de tecnologia.
 <br>Saúde e paz! ☮️
 
 ### ⚡ Linguagens de programação: 
