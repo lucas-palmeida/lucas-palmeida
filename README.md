@@ -1,6 +1,5 @@
 ## Olá 👋 e seja bem vindo! Meu nome é Lucas Almeida.
-Sou apaixonado por programação, videogames e quase tudo que envolva tecnologia. Aluno dos cursos Técnico em Desenvolvimento de Sistemas no Senac Tech 👨‍💻 e Bacharel em Engenharia Cartográfica e de Agrimensura na Universidade Federal do Rio Grande do Sul (UFRGS) 🌐 Atualmente estou focado no aprimoramento e enriquecimento das minhas habilidades na área do desenvolvimento web, para em seguida sair em busca de minha primeira oportunidade profissional na área de tecnologia.
-<br>Saúde e paz! ☮️
+Sou apaixonado por programação, videogames e quase tudo que envolva tecnologia. Aluno dos cursos Técnico em Desenvolvimento de Sistemas no Senac Tech 👨‍💻 e Bacharel em Engenharia Cartográfica e de Agrimensura na Universidade Federal do Rio Grande do Sul (UFRGS) 🌐 Atualmente estou focado no aprimoramento e enriquecimento das minhas habilidades na área do desenvolvimento web, para em seguida sair em busca da minha primeira oportunidade profissional na área de tecnologia.
 
 ### ⚡ Linguagens de programação: 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
