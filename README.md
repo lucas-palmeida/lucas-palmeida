@@ -1,5 +1,5 @@
 ## Olá 👋 e seja bem vindo! Meu nome é Lucas Almeida.
-Sou apaixonado por programação de computadores e aluno dos cursos Técnico em Desenvolvimento de Sistemas no Senac Tech 👨‍💻 e Bacharel em Engenharia Cartográfica e de Agrimensura na Universidade Federal do Rio Grande do Sul (UFRGS) 🌐 Atualmente estou em busca da minha primeira oportunidade profissional na área de tecnologia.
+Sou apaixonado por programação, videogames e quase tudo que envolva tecnologia. Aluno dos cursos Técnico em Desenvolvimento de Sistemas no Senac Tech 👨‍💻 e Bacharel em Engenharia Cartográfica e de Agrimensura na Universidade Federal do Rio Grande do Sul (UFRGS) 🌐 Atualmente estou focado no aprimoramento e enriquecimento das minhas habilidades na área do desenvolvimento web, para em seguida sair em busca de minha primeira oportunidade profissional na área de tecnologia.
 <br>Saúde e paz! ☮️
 
 ### ⚡ Linguagens de programação: 
