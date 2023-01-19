@@ -1,7 +1,7 @@
 # 💫 Sobre Mim:
 Sou apaixonado por programação, ficção científica, videogames e quase tudo que envolva tecnologia. Aluno do curso Técnico em Desenvolvimento de Sistemas no Senac Tech 👨‍💻 e no curso de Bacharelado em Engenharia Cartográfica e de Agrimensura na Universidade Federal do Rio Grande do Sul (UFRGS) 🌐 Atualmente estou focado no aprimoramento e enriquecimento das minhas habilidades na área do desenvolvimento web tendo como objetivo minha primeira oportunidade profissional na área de tecnologia.
 
-## 🌐 Redes Sociais:
+# 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-palmeida/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_palmeida/) 
 
 # 💻 Tecnologias:
