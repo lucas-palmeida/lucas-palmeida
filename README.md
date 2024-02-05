@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  Olá! Meu nome é Lucas Almeida, tenho 28 anos e sou Desenvolvedor Full Stack
+  Olá! Meu nome é Lucas Pacheco, tenho 28 anos e sou Desenvolvedor Full Stack
   <br>
   <br>
   📚 Atualmente estou cursando uma formação intensiva em Desenvolvimento Web pela Driven Education
