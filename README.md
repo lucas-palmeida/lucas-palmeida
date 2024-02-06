@@ -83,8 +83,8 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/driven-15/drivent-front" title="Drivent - Front"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=driven-15&repo=drivent-front&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/driven-15/drivent-back" title="Drivent - Back"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=driven-15&repo=drivent-back&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/lucas-palmeida/drivent-front" title="Drivent - Front"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=driven-15&repo=drivent-front&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/lucas-palmeida/drivent-back" title="Drivent - Back"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=driven-15&repo=drivent-back&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
