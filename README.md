@@ -7,14 +7,14 @@
 </h1>
 
 <div align="center">
-  Olá! Meu nome é Lucas Pacheco, tenho 28 anos e sou Desenvolvedor Full Stack
+  Olá! Meu nome é Lucas Pacheco, tenho 29 anos e sou Desenvolvedor Full Stack
   <br>
   <br>
-  📚 Atualmente estou cursando uma formação intensiva em Desenvolvimento Web pela Driven Education
+  🛠️ Atualmente estou atuando como desenvolvedor nas soluções do <a href="https://diarioescola.com.br/" target="_blank"> superApp Diário Escola</a> 
   <br>
-  🎓 Sou estudante de Tecnologia em Sistemas para Internet no Instituto Federal do Rio Grande do Sul - IFRS
+  🎓 Cursando Tecnologia em Sistemas para Internet no Instituto Federal do Rio Grande do Sul - IFRS
   <br>
-  💻 Adoro escrever código e estou sempre buscando aprender coisas novas
+  💻 Adoro escrever códigos performáticos e bem indentados, além disso estou sempre buscando aprender coisas novas
   <br>
   👾 Sou apaixonado por ficção científica, exploração espacial, videogames e tudo o que envolve tecnologia
   <br>
@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <br><br>
